@@ -2,9 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Use moesif cors blocker on chrome while running in case of any cors error
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Available Scripts
 
 In the project directory, you can run:
+
+
+### `npm install`
+
+To install dependencies
 
 ### `npm start`
 
