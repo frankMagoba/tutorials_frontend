@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Use moesif cors blocker on chrome while running in case of any cors error
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ [Moersif](https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc).
 
 ## Available Scripts
 
